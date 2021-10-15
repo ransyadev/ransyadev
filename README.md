@@ -28,9 +28,9 @@ We are Android Developer and Web Developer <br/><br/>
 My motivation is to be useful to others and fulfill my obligations to complete existing tasks, complete all checks ✅ that have not been completed and learn many new things 🆕 so that they remain open and easy to follow the flow. 😄
 
 ## Current activity 👨‍💻👩‍💻
-- 📖 We currently learning Android Developer & Web Developer;
-- 🤔 My interests are with Android Developer & Web Developer;
-- 💬 Ask me about anything, I am happy to help;
+- 📖 We currently learning Android Developer & Web Developer.
+- 🤔 My interests are with Android Developer & Web Developer.
+- 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via ransyadev20@gmail.com to reach me.
 
 
