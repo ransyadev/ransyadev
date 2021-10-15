@@ -5,8 +5,8 @@
  -->
  
 # My Team
-## 🙋‍♂️ <a href="https://github.com/muhamadsyafii" target="_blank">Muhamad Syafii</a>
-## 🧕 <a href="https://github.com/rismaadisty" target="_blank">Risma Adisty Nilasari</a>
+🙋‍♂️ <a href="https://github.com/muhamadsyafii" target="_blank">Muhamad Syafii</a> <br/>
+🧕 <a href="https://github.com/rismaadisty" target="_blank">Risma Adisty Nilasari</a>
 
 ## Languages and My Tech Toolbox 🧰 
 
