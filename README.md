@@ -1,10 +1,6 @@
 # Hi, I'm Ransya Dev <img src="https://github.com/muhamadsyafii/muhamadsyafii/blob/master/gif/Hi.gif?raw=true" width="30px">
-<!-- [<img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" target="_blank" />][Instagram]
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />][twitter]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />][LinkedIn]
- -->
  
-# My Team
+## My Team 🤘
 🙋‍♂️ <a href="https://github.com/muhamadsyafii" target="_blank">Muhamad Syafii</a> <br/>
 🧕 <a href="https://github.com/rismaadisty" target="_blank">Risma Adisty Nilasari</a>
 
@@ -19,6 +15,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplin" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/php//php-icon.svg" alt="php" height="40"/> 
 </p>
 
 
