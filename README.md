@@ -39,7 +39,7 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ransyadev&show_icons=true&theme=graywhite" alt="Ransya Dev | Stats" />
 
 
-## Visitor
+## Visitor 👀
  ![Visitor Count](https://profile-counter.glitch.me/{ransyadev}/count.svg)
  
 
