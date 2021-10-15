@@ -1,5 +1,5 @@
 # Hi, I'm Ransya Dev <img src="https://github.com/muhamadsyafii/muhamadsyafii/blob/master/gif/Hi.gif?raw=true" width="30px">
-We are Android Developer and Web Developer
+We are Android Developer and Web Developer <br/>
 [<img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" target="_blank" />][Instagram]
  
 ## My Team 🤘
