@@ -1,4 +1,6 @@
 # Hi, I'm Ransya Dev <img src="https://github.com/muhamadsyafii/muhamadsyafii/blob/master/gif/Hi.gif?raw=true" width="30px">
+We are Android Developer and Web Developer
+[<img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" target="_blank" />][Instagram]
  
 ## My Team 🤘
 🙋‍♂️ <a href="https://github.com/muhamadsyafii" target="_blank">Muhamad Syafii</a> <br/>
@@ -15,20 +17,20 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplin" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" height="40"/> 
 </p>
-
 
 ## How I work
 
 My motivation is to be useful to others and fulfill my obligations to complete existing tasks, complete all checks ✅ that have not been completed and learn many new things 🆕 so that they remain open and easy to follow the flow. 😄
 
-<!-- ## Current activity 👨‍💻
-- 📖 I’m currently learning Android;
-- 🤔 My interests are with Android Developer;
-- 💼 I’m a Bachelor's degree in Software Engineering;
+## Current activity 👨‍💻👩‍💻
+- 📖 We currently learning Android Developer & Web Developer;
+- 🤔 My interests are with Android Developer & Web Developer;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via muhamadsyafii4@gmail.com to reach me. -->
+- 📫 Please email via ransyadev20@gmail.com to reach me.
 
 
 ## 📊 Github Stats
@@ -38,7 +40,5 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 ## Visitor
  ![Visitor Count](https://profile-counter.glitch.me/{ransyadev}/count.svg)
  
- 
-<!-- [twitter]: https://twitter.com/fii_upl
-[linkedin]: https://www.linkedin.com/in/muhamadsyafii4
-[Instagram]: https://www.instagram.com/fii.upl -->
+
+[Instagram]: https://www.instagram.com/ransyadev
