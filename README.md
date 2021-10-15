@@ -18,6 +18,7 @@ We are Android Developer and Web Developer <br/><br/>
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplin" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" height="40"/> 
